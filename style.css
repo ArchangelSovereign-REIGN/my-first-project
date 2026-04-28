@@ -16,7 +16,7 @@ body::before {
     width: 800px;
     height: 800px;
     transform: translate(-50%, -50%);
-    background: url("https://i.imgur.com/8QfQK9R.png") no-repeat center;
+    background: url("https://i.imgur.com/3Q9QZ9M.png") no-repeat center;
     background-size: contain;
     opacity: 0.08;
     animation: floatWings 6s ease-in-out infinite;
